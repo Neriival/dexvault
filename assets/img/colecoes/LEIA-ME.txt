@@ -1,0 +1,1 @@
+30th-celebration.png: substitua pelo PNG oficial transparente.\nclassic-collection.svg e pikachu-collection.svg são provisórios. Para usar PNG, salve classic-collection.png e pikachu-collection.png e altere .svg para .png em js/catalogo.js.\n

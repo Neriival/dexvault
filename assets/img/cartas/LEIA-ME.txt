@@ -1,0 +1,1 @@
+Opcional: salve imagens de cartas como <ID-da-API>.png, por exemplo me55-001.png. O sistema tenta a imagem local antes das URLs externas.\n

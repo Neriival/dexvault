@@ -1,0 +1,75 @@
+/* Séries, coleções, cartas, filtros, progresso e modal */
+.catalog-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.catalog-card{display:flex;align-items:center;gap:13px;min-width:0;padding:13px;border:1px solid var(--border);border-radius:12px;background:#25282c;transition:.2s}.catalog-card:hover{border-color:var(--yellow);transform:translateY(-2px)}.catalog-art{width:112px;height:88px;flex-shrink:0;display:grid;place-items:center;background:#36393e;border-radius:9px;overflow:hidden}.catalog-art img{width:100%;height:100%;object-fit:contain}.catalog-info{min-width:0}.catalog-info h3{font-size:17px;margin:7px 0}.catalog-info p{color:var(--muted);font-size:11px;margin:0}.arrow{margin-left:auto;color:var(--yellow);font-size:20px}.collection-heading{display:flex;align-items:center;gap:24px;background:#25282c;border:1px solid var(--border);padding:20px;border-radius:14px;margin-bottom:20px}.collection-heading img{width:150px;height:105px;object-fit:contain;background:#35383d;padding:10px;border-radius:9px}.collection-heading h1{margin:8px 0}.collection-heading p{color:var(--muted)}.tabs,.filters{display:flex;gap:8px;flex-wrap:wrap}.tabs{margin-bottom:20px}.tabs button,.filters button{padding:10px 14px;background:#292c31;color:var(--muted);border:1px solid var(--border);border-radius:9px;font-size:12px;font-weight:700}.tabs button.active,.filters button.active{background:var(--yellow);color:#17181b;border-color:var(--yellow)}.stats{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:9px}.stat{background:#25282c;border:1px solid var(--border);border-radius:10px;padding:15px 12px}.stat span{display:block;min-height:30px;font-size:11px;color:var(--muted)}.stat strong{font:800 25px Outfit,sans-serif;color:var(--yellow)}.progress{background:#25282c;border:1px solid var(--border);border-radius:10px;padding:17px;margin:14px 0 22px}.progress-top{display:flex;justify-content:space-between;margin-bottom:12px;font-size:12px}.track{height:9px;background:#404247;border-radius:30px;overflow:hidden}.track>div{height:100%;background:var(--yellow);border-radius:30px}.toolbar{display:flex;gap:14px;justify-content:space-between;align-items:center;margin:22px 0}.toolbar input{flex:1;min-width:160px;padding:12px 14px;background:#292c31;border:1px solid var(--border);border-radius:9px;color:white}.toolbar input:focus{outline:1px solid var(--yellow)}.results{color:var(--muted);font-size:12px}.card-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(135px,1fr));gap:13px}.pokemon-card{min-width:0;background:#25282c;border:1px solid var(--border);border-radius:11px;padding:10px}.card-art{display:grid;place-items:center;width:100%;min-height:165px;padding:0;border:0;background:transparent;cursor:zoom-in}.card-art img{max-height:205px;object-fit:contain;transition:.2s}.card-art:hover img{transform:scale(1.04)}.sem-foto{color:var(--muted);font-size:11px}.pokemon-card h3{font-size:13px;margin:10px 0 4px}.pokemon-card small{color:var(--muted)}.have{display:block;width:100%;margin-top:12px;padding:9px;border:1px solid #705e2d;border-radius:8px;background:#3b3526;color:var(--yellow);font-weight:700;font-size:12px}.have.selected{background:#273d30;border-color:#477d54;color:#96dda9}.modal-open{overflow:hidden}.modal{position:fixed;inset:0;z-index:99;background:#000c;display:grid;place-items:center;padding:20px}.modal-panel{position:relative;width:min(900px,100%);max-height:92vh;overflow:auto;border:1px solid #4a473e;border-radius:18px;background:#272a2e}.close{position:absolute;right:12px;top:12px;width:40px;height:40px;border:0;border-radius:50%;background:#3b3d41;color:white;font-size:20px}.modal-body{display:grid;grid-template-columns:43% 1fr;gap:26px;padding:30px}.modal-image{display:grid;place-items:center;padding:15px;background:#191b1e;border-radius:12px}.modal-image img{max-height:75vh;object-fit:contain}.modal-info{align-self:center}.modal-info h2{font-size:30px;margin:12px 0}.modal-info p,.modal-info small{color:var(--muted)}.detail-row{display:flex;justify-content:space-between;gap:14px;padding:12px 0;border-bottom:1px solid var(--border)}.detail-row span{color:var(--muted)}.modal-info .btn{margin:24px 0 14px;width:100%}
+
+/* V8: preservar o tamanho dos cards; dar respiro aos logotipos, sem esticar nem recortar. */
+.catalog-art{padding:9px;background:#303238;overflow:hidden}
+.catalog-art img{display:block;width:100%;height:100%;object-fit:contain;object-position:center}
+.series-card .catalog-art,.expansion-card .catalog-art{padding:10px 7px}
+.series-card .catalog-art img{image-rendering:auto}
+.collection-heading img{object-fit:contain;object-position:center;padding:12px}
+/* Login preparado para futura conexão ao Supabase Auth. */
+.auth-shell{display:grid;place-items:center;min-height:60vh;padding:15px 0}
+.auth-card{width:min(440px,100%);padding:34px;border:1px solid var(--border);border-radius:16px;background:#24272b}
+.auth-card h1{font-size:32px;margin:13px 0 9px}.auth-card p{color:var(--muted);line-height:1.6;margin-bottom:23px}
+.auth-card label{display:block;font-size:12px;font-weight:700;margin:14px 0 7px}
+.auth-card input{width:100%;padding:13px 14px;border:1px solid #45494e;border-radius:9px;background:#1b1d20;color:white}
+.auth-card input:disabled{opacity:.72;cursor:not-allowed}.auth-submit{width:100%;margin:20px 0 8px;opacity:.65;cursor:not-allowed}
+.auth-links{display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px;margin-top:16px}.auth-links a{color:var(--yellow);font-size:12px;font-weight:700}
+.auth-info{margin-top:24px;padding:12px;border:1px solid #61542e;border-radius:9px;background:#302b1f;color:#ead49b;font-size:11px;line-height:1.6}
+
+/* V9: card compacto com logotipo inteiro, texto central e seta direita */
+.catalog-card{min-height:120px;gap:14px;padding:14px 16px;overflow:hidden}
+.catalog-art{width:120px;height:86px;flex:0 0 120px;background:transparent;overflow:visible;border-radius:0}
+.catalog-art img{width:100%;height:100%;object-fit:contain;object-position:center;display:block}
+.catalog-info{flex:1;min-width:0}.catalog-info h3{overflow-wrap:anywhere;line-height:1.25}
+.catalog-card .arrow{flex:0 0 auto;margin-left:auto}
+
+/* V10: imagens transparentes e maiores, sem mudar a altura do card. */
+.catalog-card{height:120px;min-height:120px;gap:10px;padding:8px 12px;overflow:hidden}
+.catalog-card .catalog-art,.series-card .catalog-art,.expansion-card .catalog-art{
+ width:155px;height:106px;flex:0 0 155px;padding:0;background:transparent;
+ border:0;border-radius:0;overflow:hidden;display:flex;align-items:center;justify-content:center}
+.catalog-card .catalog-art img{display:block;width:100%;height:100%;object-fit:contain;object-position:center}
+.catalog-card .catalog-info{flex:1;min-width:0}.catalog-card .catalog-info h3{font-size:15px;margin:5px 0}
+.catalog-card .arrow{flex:0 0 auto;margin-left:auto}
+.collection-heading img{background:transparent;padding:0;object-fit:contain}
+
+/* V11: distribuição equilibrada: logotipo grande, informações centralizadas, seta fixa. */
+.catalog-card{justify-content:space-between;gap:8px}
+.catalog-card .catalog-art,.series-card .catalog-art,.expansion-card .catalog-art{flex:0 0 38%;width:38%;max-width:185px;height:108px;overflow:visible}
+.catalog-card .catalog-art img{width:100%;height:100%;object-fit:contain}
+.catalog-card .catalog-info{flex:1 1 auto;text-align:center;min-width:0}
+.catalog-card .arrow{flex:0 0 20px;margin:0 0 0 auto;text-align:center}
+
+/* V12: transparência e escala consistente das artes locais */
+.catalog-art{background:transparent;overflow:visible}
+.catalog-art img{object-fit:contain;object-position:center;width:100%;height:100%}
+.card-art .sem-foto{display:grid;place-items:center;min-height:155px}
+
+/* V16: coleção em cinza, repetidas e exportação. Apenas a imagem recebe filtro. */
+.pokemon-card.nao-adquirida .card-art img{filter:grayscale(1);opacity:.52}
+.pokemon-card.adquirida .card-art img{filter:none;opacity:1}
+.pokemon-card .card-art img{transition:filter .2s,opacity .2s,transform .2s}
+.owned-control{display:flex;align-items:center;gap:6px;margin-top:10px}.owned-control .have{margin:0;flex:1;min-width:0;min-height:37px;display:flex;align-items:center;justify-content:center;text-align:center;line-height:1.2}
+.copies{display:flex;align-items:center;gap:5px;background:#191c1f;border:1px solid #444;border-radius:8px;padding:3px}.copies button,.modal-copies button{min-width:25px;min-height:29px;background:#363b40;color:var(--yellow);border:0;border-radius:5px;font-size:17px;cursor:pointer}.copies button:disabled{opacity:.35;cursor:default}.copies span{min-width:13px;text-align:center;font-size:12px;font-weight:800}
+.repeat-tag{margin-top:7px;font-size:11px;color:#ead28d}.export-bar{display:flex;align-items:center;gap:8px;flex-wrap:wrap;padding:13px;margin:12px 0;border:1px solid var(--border);border-radius:10px;background:#25282c}.export-bar strong{font-size:12px;margin-right:4px}.export-bar button{background:#33373b;color:var(--yellow);border:1px solid #60532f;border-radius:7px;padding:9px 11px;cursor:pointer;font-size:12px}.export-bar button:hover{border-color:var(--yellow)}.modal-copies{display:flex;align-items:center;gap:12px;margin-top:12px}.modal-copies strong{font-size:19px}.stats{grid-template-columns:repeat(3,minmax(0,1fr))}
+@media(min-width:950px){.stats{grid-template-columns:repeat(6,minmax(0,1fr))}}@media(max-width:500px){.stats{grid-template-columns:repeat(2,minmax(0,1fr))}.owned-control{flex-wrap:wrap}.owned-control .have{flex-basis:100%}}
+
+/* V17: comparação local de listas de troca. */
+.trade-modal{padding:30px}.trade-modal h2{margin:10px 0 8px}.trade-summary{color:var(--muted);line-height:1.6;margin-bottom:20px}.trade-summary strong{color:var(--yellow)}.trade-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px}.trade-card{display:flex;gap:12px;align-items:center;padding:10px;border:1px solid var(--border);border-radius:10px;background:#1f2226}.trade-card img,.trade-card .sem-foto{width:72px;height:100px;flex:0 0 72px;object-fit:contain;border-radius:6px;background:#17191c}.trade-card h3{font-size:13px;margin:0 0 4px}.trade-card small{display:block;color:var(--muted);margin-bottom:7px}.trade-card span{display:block;color:#96dda9;font-size:11px;font-weight:700}.trade-note{margin:18px 0 0;color:var(--muted);font-size:11px}.export-bar input[type=file]{display:none}
+@media(max-width:600px){.trade-modal{padding:22px}.trade-grid{grid-template-columns:1fr}.trade-card img,.trade-card .sem-foto{width:62px;height:86px;flex-basis:62px}}
+
+/* V18: ferramentas da coleção mais simples; opções técnicas ficam recolhidas. */
+.export-bar{align-items:flex-start}
+.export-bar>strong{padding-top:10px}
+.export-main{display:flex;gap:8px;flex-wrap:wrap}
+.export-main button{font-weight:700}
+.export-more{width:100%;margin-top:2px}
+.export-more summary{width:max-content;list-style:none;color:var(--muted);font-size:11px;font-weight:700;cursor:pointer;padding:5px 0}
+.export-more summary::-webkit-details-marker{display:none}
+.export-more summary::before{content:'＋ ';color:var(--yellow)}
+.export-more[open] summary::before{content:'− '}
+.export-extra{display:flex;align-items:center;gap:7px;flex-wrap:wrap;padding-top:6px}
+.export-extra span{font-size:11px;color:var(--muted)}
+.export-extra button{padding:7px 9px;font-size:11px}
+@media(max-width:650px){.export-bar>strong{width:100%;padding-top:0}.export-main{width:100%}.export-main button{flex:1 1 100%}.export-more{margin-top:3px}}

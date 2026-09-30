@@ -1,0 +1,1 @@
+Coloque aqui as imagens em WebP com o número oficial, ex.: 001.webp, 002.webp. Não basta renomear PNG: converta de verdade. Cartas especiais podem precisar de identificadores exclusivos. A pasta está vazia de propósito; o catálogo usa as imagens da API enquanto você adiciona suas imagens.

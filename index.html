@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#17181b">
+  <meta name="description" content="Organize suas cartas Pokémon por séries e coleções.">
+  <title>DexVault | Seu álbum de cartas</title>
+  <link rel="icon" href="assets/img/dexvault-logo.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/global.css">
+  <link rel="stylesheet" href="css/layout.css">
+  <link rel="stylesheet" href="css/componentes.css">
+  <link rel="stylesheet" href="css/responsivo.css">
+</head>
+<body>
+  <div class="page-grid">
+    <aside class="ad-column" aria-label="Espaço para publicidade futura"><div class="ad-box">PUBLICIDADE <small>Espaço reservado</small></div></aside>
+    <div class="site">
+      <header class="header">
+        <a class="brand" href="#inicio" aria-label="DexVault: voltar ao início"><img src="assets/img/dexvault-logo.svg" alt=""><span>DEX<span class="yellow">VAULT</span><small>SEU ÁLBUM DE CARTAS</small></span></a>
+        <nav aria-label="Menu principal"><a href="#inicio" data-nav="inicio">Início</a><a href="#series" data-nav="series">Séries</a><a href="#entrar" data-nav="entrar" class="login-link" aria-label="Entrar na conta">♙ Entrar</a></nav>
+      </header>
+      <main id="app" class="main" aria-live="polite"><p class="loading">Carregando DexVault… Se esta mensagem não desaparecer, abra pelo Live Server no VS Code.</p></main>
+      <footer>Projeto independente, sem vínculo oficial com a Pokémon. <a href="https://www.pokemon.com/br" target="_blank" rel="noopener">Site oficial ↗</a></footer>
+    </div>
+    <aside class="ad-column" aria-label="Espaço para publicidade futura"><div class="ad-box">PUBLICIDADE <small>Espaço reservado</small></div></aside>
+  </div>
+  <div id="modal" class="modal hidden" role="dialog" aria-modal="true" aria-label="Detalhes da carta"><div class="modal-panel"><button id="modal-close" class="close" aria-label="Fechar">✕</button><div id="modal-content"></div></div></div>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

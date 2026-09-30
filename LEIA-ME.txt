@@ -1,0 +1,19 @@
+DEXVAULT - PATCH V18
+
+Este patch NÃO contém a pasta de imagens das cartas para não apagar as 161 imagens .png que você já baixou.
+
+Como aplicar:
+1. Feche o Live Server se quiser.
+2. Abra a pasta DEXVAULT_V17.
+3. Copie a pasta js deste patch para dentro do projeto e confirme Substituir app.js.
+4. Copie a pasta css deste patch para dentro do projeto e confirme Substituir componentes.css.
+5. Não mexa na pasta assets/img/cartas nem em dados/30th-celebration.json.
+6. Abra novamente no Live Server e pressione Ctrl + F5.
+
+Mudanças V18:
+- Barra de ferramentas simplificada.
+- Botão Gerar PDF.
+- Exportar para comparação (continua usando JSON por baixo, necessário para comparação automática).
+- Comparar coleção.
+- CSVs movidos para "Mais opções".
+- Botão técnico "Baixar catálogo JSON" removido da interface.

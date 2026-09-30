@@ -1,0 +1,2265 @@
+{
+    "id":  "me55",
+    "name":  "30th Celebration",
+    "version":  1,
+    "cardCount":  {
+                      "official":  128,
+                      "total":  161
+                  },
+    "cards":  [
+                  {
+                      "id":  "me55-1",
+                      "name":  "Exeggcute",
+                      "localId":  "1",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Grass"
+                                ],
+                      "hp":  "60",
+                      "illustrator":  "Nelnal",
+                      "image":  "https://images.scrydex.com/pokemon/me55-1/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-1/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/001.png"
+                  },
+                  {
+                      "id":  "me55-2",
+                      "name":  "Alolan Exeggutor",
+                      "localId":  "2",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Grass"
+                                ],
+                      "hp":  "150",
+                      "illustrator":  "Oswaldo KATO",
+                      "image":  "https://images.scrydex.com/pokemon/me55-2/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-2/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/002.png"
+                  },
+                  {
+                      "id":  "me55-3",
+                      "name":  "Volbeat",
+                      "localId":  "3",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Grass"
+                                ],
+                      "hp":  "80",
+                      "illustrator":  "Yoriyuki Ikegami",
+                      "image":  "https://images.scrydex.com/pokemon/me55-3/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-3/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/003.png"
+                  },
+                  {
+                      "id":  "me55-4",
+                      "name":  "Illumise",
+                      "localId":  "4",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Grass"
+                                ],
+                      "hp":  "80",
+                      "illustrator":  "Shibuzoh.",
+                      "image":  "https://images.scrydex.com/pokemon/me55-4/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-4/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/004.png"
+                  },
+                  {
+                      "id":  "me55-5",
+                      "name":  "Tropius",
+                      "localId":  "5",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Grass"
+                                ],
+                      "hp":  "120",
+                      "illustrator":  "Minahamu",
+                      "image":  "https://images.scrydex.com/pokemon/me55-5/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-5/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/005.png"
+                  },
+                  {
+                      "id":  "me55-6",
+                      "name":  "Cherubi",
+                      "localId":  "6",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Grass"
+                                ],
+                      "hp":  "40",
+                      "illustrator":  "Kurata So",
+                      "image":  "https://images.scrydex.com/pokemon/me55-6/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-6/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/006.png"
+                  },
+                  {
+                      "id":  "me55-7",
+                      "name":  "Cherrim",
+                      "localId":  "7",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Grass"
+                                ],
+                      "hp":  "80",
+                      "illustrator":  "takashi shiraishi",
+                      "image":  "https://images.scrydex.com/pokemon/me55-7/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-7/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/007.png"
+                  },
+                  {
+                      "id":  "me55-8",
+                      "name":  "Vivillon",
+                      "localId":  "8",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Grass"
+                                ],
+                      "hp":  "120",
+                      "illustrator":  "Jerky",
+                      "image":  "https://images.scrydex.com/pokemon/me55-8/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-8/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/008.png"
+                  },
+                  {
+                      "id":  "me55-9",
+                      "name":  "Vulpix",
+                      "localId":  "9",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Fire"
+                                ],
+                      "hp":  "70",
+                      "illustrator":  "miki kudo",
+                      "image":  "https://images.scrydex.com/pokemon/me55-9/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-9/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/009.png"
+                  },
+                  {
+                      "id":  "me55-10",
+                      "name":  "Ninetales",
+                      "localId":  "10",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Fire"
+                                ],
+                      "hp":  "110",
+                      "illustrator":  "kodama",
+                      "image":  "https://images.scrydex.com/pokemon/me55-10/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-10/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/010.png"
+                  },
+                  {
+                      "id":  "me55-11",
+                      "name":  "Moltres",
+                      "localId":  "11",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Fire"
+                                ],
+                      "hp":  "120",
+                      "illustrator":  "HYOGONOSUKE",
+                      "image":  "https://images.scrydex.com/pokemon/me55-11/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-11/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/011.png"
+                  },
+                  {
+                      "id":  "me55-12",
+                      "name":  "Ho-Oh",
+                      "localId":  "12",
+                      "rarity":  "Rare",
+                      "types":  [
+                                    "Fire"
+                                ],
+                      "hp":  "130",
+                      "illustrator":  "Anesaki Dynamic",
+                      "image":  "https://images.scrydex.com/pokemon/me55-12/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-12/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/012.png"
+                  },
+                  {
+                      "id":  "me55-13",
+                      "name":  "Victini",
+                      "localId":  "13",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Fire"
+                                ],
+                      "hp":  "80",
+                      "illustrator":  "Jiro Sasumo",
+                      "image":  "https://images.scrydex.com/pokemon/me55-13/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-13/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/013.png"
+                  },
+                  {
+                      "id":  "me55-14",
+                      "name":  "Reshiram",
+                      "localId":  "14",
+                      "rarity":  "Rare",
+                      "types":  [
+                                    "Fire"
+                                ],
+                      "hp":  "130",
+                      "illustrator":  "Uta",
+                      "image":  "https://images.scrydex.com/pokemon/me55-14/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-14/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/014.png"
+                  },
+                  {
+                      "id":  "me55-15",
+                      "name":  "Fuecoco ex",
+                      "localId":  "15",
+                      "rarity":  "Double Rare",
+                      "types":  [
+                                    "Fire"
+                                ],
+                      "hp":  "210",
+                      "illustrator":  "5ban Graphics",
+                      "image":  "https://images.scrydex.com/pokemon/me55-15/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-15/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/015.png"
+                  },
+                  {
+                      "id":  "me55-16",
+                      "name":  "Slowpoke",
+                      "localId":  "16",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Water"
+                                ],
+                      "hp":  "80",
+                      "illustrator":  "Uninori",
+                      "image":  "https://images.scrydex.com/pokemon/me55-16/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-16/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/016.png"
+                  },
+                  {
+                      "id":  "me55-17",
+                      "name":  "Lapras",
+                      "localId":  "17",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Water"
+                                ],
+                      "hp":  "130",
+                      "illustrator":  "Masa",
+                      "image":  "https://images.scrydex.com/pokemon/me55-17/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-17/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/017.png"
+                  },
+                  {
+                      "id":  "me55-18",
+                      "name":  "Articuno",
+                      "localId":  "18",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Water"
+                                ],
+                      "hp":  "120",
+                      "illustrator":  "HYOGONOSUKE",
+                      "image":  "https://images.scrydex.com/pokemon/me55-18/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-18/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/018.png"
+                  },
+                  {
+                      "id":  "me55-19",
+                      "name":  "Kyogre",
+                      "localId":  "19",
+                      "rarity":  "Rare",
+                      "types":  [
+                                    "Water"
+                                ],
+                      "hp":  "140",
+                      "illustrator":  "Tonji Matsuno",
+                      "image":  "https://images.scrydex.com/pokemon/me55-19/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-19/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/019.png"
+                  },
+                  {
+                      "id":  "me55-20",
+                      "name":  "Palkia",
+                      "localId":  "20",
+                      "rarity":  "Rare",
+                      "types":  [
+                                    "Water"
+                                ],
+                      "hp":  "130",
+                      "illustrator":  "kawayoo",
+                      "image":  "https://images.scrydex.com/pokemon/me55-20/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-20/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/020.png"
+                  },
+                  {
+                      "id":  "me55-21",
+                      "name":  "Greninja ex",
+                      "localId":  "21",
+                      "rarity":  "Double Rare",
+                      "types":  [
+                                    "Water"
+                                ],
+                      "hp":  "300",
+                      "illustrator":  "5ban Graphics",
+                      "image":  "https://images.scrydex.com/pokemon/me55-21/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-21/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/021.png"
+                  },
+                  {
+                      "id":  "me55-22",
+                      "name":  "Wishiwashi",
+                      "localId":  "22",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Water"
+                                ],
+                      "hp":  "30",
+                      "illustrator":  "Narano",
+                      "image":  "https://images.scrydex.com/pokemon/me55-22/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-22/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/022.png"
+                  },
+                  {
+                      "id":  "me55-23",
+                      "name":  "Pikachu",
+                      "localId":  "23",
+                      "rarity":  "Pikachu Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "70",
+                      "illustrator":  "Ken Sugimori",
+                      "image":  "https://images.scrydex.com/pokemon/me55-23/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-23/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/023.png"
+                  },
+                  {
+                      "id":  "me55-24",
+                      "name":  "Pikachu",
+                      "localId":  "24",
+                      "rarity":  "Pikachu Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "70",
+                      "illustrator":  "danciao",
+                      "image":  "https://images.scrydex.com/pokemon/me55-24/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-24/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/024.png"
+                  },
+                  {
+                      "id":  "me55-25",
+                      "name":  "Pikachu",
+                      "localId":  "25",
+                      "rarity":  "Pikachu Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "70",
+                      "illustrator":  "satoma",
+                      "image":  "https://images.scrydex.com/pokemon/me55-25/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-25/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/025.png"
+                  },
+                  {
+                      "id":  "me55-26",
+                      "name":  "Pikachu",
+                      "localId":  "26",
+                      "rarity":  "Pikachu Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "70",
+                      "illustrator":  "Takeshi Nakamura",
+                      "image":  "https://images.scrydex.com/pokemon/me55-26/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-26/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/026.png"
+                  },
+                  {
+                      "id":  "me55-27",
+                      "name":  "Pikachu",
+                      "localId":  "27",
+                      "rarity":  "Pikachu Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "80",
+                      "illustrator":  "Asako Ito",
+                      "image":  "https://images.scrydex.com/pokemon/me55-27/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-27/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/027.png"
+                  },
+                  {
+                      "id":  "me55-28",
+                      "name":  "Pikachu",
+                      "localId":  "28",
+                      "rarity":  "Pikachu Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "60",
+                      "illustrator":  "sowsow",
+                      "image":  "https://images.scrydex.com/pokemon/me55-28/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-28/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/028.png"
+                  },
+                  {
+                      "id":  "me55-29",
+                      "name":  "Pikachu",
+                      "localId":  "29",
+                      "rarity":  "Pikachu Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "60",
+                      "illustrator":  "James Turner",
+                      "image":  "https://images.scrydex.com/pokemon/me55-29/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-29/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/029.png"
+                  },
+                  {
+                      "id":  "me55-30",
+                      "name":  "Pikachu",
+                      "localId":  "30",
+                      "rarity":  "Pikachu Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "60",
+                      "illustrator":  "DOM",
+                      "image":  "https://images.scrydex.com/pokemon/me55-30/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-30/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/030.png"
+                  },
+                  {
+                      "id":  "me55-31",
+                      "name":  "Pikachu",
+                      "localId":  "31",
+                      "rarity":  "Pikachu Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "50",
+                      "illustrator":  "Atsushi Furusawa",
+                      "image":  "https://images.scrydex.com/pokemon/me55-31/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-31/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/031.png"
+                  },
+                  {
+                      "id":  "me55-32",
+                      "name":  "Pikachu",
+                      "localId":  "32",
+                      "rarity":  "Pikachu Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "50",
+                      "illustrator":  "Tomokazu Komiya",
+                      "image":  "https://images.scrydex.com/pokemon/me55-32/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-32/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/032.png"
+                  },
+                  {
+                      "id":  "me55-33",
+                      "name":  "Pikachu",
+                      "localId":  "33",
+                      "rarity":  "Pikachu Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "60",
+                      "illustrator":  "Narumi Sato",
+                      "image":  "https://images.scrydex.com/pokemon/me55-33/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-33/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/033.png"
+                  },
+                  {
+                      "id":  "me55-34",
+                      "name":  "Pikachu",
+                      "localId":  "34",
+                      "rarity":  "Pikachu Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "70",
+                      "illustrator":  "USGMEN",
+                      "image":  "https://images.scrydex.com/pokemon/me55-34/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-34/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/034.png"
+                  },
+                  {
+                      "id":  "me55-35",
+                      "name":  "Pikachu",
+                      "localId":  "35",
+                      "rarity":  "Pikachu Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "60",
+                      "illustrator":  "Susumu Maeya",
+                      "image":  "https://images.scrydex.com/pokemon/me55-35/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-35/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/035.png"
+                  },
+                  {
+                      "id":  "me55-36",
+                      "name":  "Pikachu",
+                      "localId":  "36",
+                      "rarity":  "Pikachu Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "70",
+                      "illustrator":  "OKACHEKE",
+                      "image":  "https://images.scrydex.com/pokemon/me55-36/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-36/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/036.png"
+                  },
+                  {
+                      "id":  "me55-37",
+                      "name":  "Pikachu",
+                      "localId":  "37",
+                      "rarity":  "Pikachu Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "70",
+                      "illustrator":  "Yuu Nishida",
+                      "image":  "https://images.scrydex.com/pokemon/me55-37/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-37/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/037.png"
+                  },
+                  {
+                      "id":  "me55-38",
+                      "name":  "Pikachu",
+                      "localId":  "38",
+                      "rarity":  "Pikachu Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "60",
+                      "illustrator":  "Tetsu Kayama",
+                      "image":  "https://images.scrydex.com/pokemon/me55-38/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-38/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/038.png"
+                  },
+                  {
+                      "id":  "me55-39",
+                      "name":  "Pikachu",
+                      "localId":  "39",
+                      "rarity":  "Pikachu Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "70",
+                      "illustrator":  "Teeziro",
+                      "image":  "https://images.scrydex.com/pokemon/me55-39/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-39/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/039.png"
+                  },
+                  {
+                      "id":  "me55-40",
+                      "name":  "Pikachu",
+                      "localId":  "40",
+                      "rarity":  "Pikachu Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "80",
+                      "illustrator":  "Shinji Kanda",
+                      "image":  "https://images.scrydex.com/pokemon/me55-40/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-40/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/040.png"
+                  },
+                  {
+                      "id":  "me55-41",
+                      "name":  "Pikachu",
+                      "localId":  "41",
+                      "rarity":  "Pikachu Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "60",
+                      "illustrator":  "Rianti Hidayat",
+                      "image":  "https://images.scrydex.com/pokemon/me55-41/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-41/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/041.png"
+                  },
+                  {
+                      "id":  "me55-42",
+                      "name":  "Pikachu",
+                      "localId":  "42",
+                      "rarity":  "Pikachu Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "60",
+                      "illustrator":  "Akira Komayama",
+                      "image":  "https://images.scrydex.com/pokemon/me55-42/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-42/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/042.png"
+                  },
+                  {
+                      "id":  "me55-43",
+                      "name":  "Pikachu",
+                      "localId":  "43",
+                      "rarity":  "Pikachu Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "70",
+                      "illustrator":  "OOYAMA",
+                      "image":  "https://images.scrydex.com/pokemon/me55-43/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-43/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/043.png"
+                  },
+                  {
+                      "id":  "me55-44",
+                      "name":  "Pikachu",
+                      "localId":  "44",
+                      "rarity":  "Pikachu Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "60",
+                      "illustrator":  "akagi",
+                      "image":  "https://images.scrydex.com/pokemon/me55-44/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-44/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/044.png"
+                  },
+                  {
+                      "id":  "me55-45",
+                      "name":  "Pikachu",
+                      "localId":  "45",
+                      "rarity":  "Pikachu Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "60",
+                      "illustrator":  "Naoyo Kimura",
+                      "image":  "https://images.scrydex.com/pokemon/me55-45/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-45/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/045.png"
+                  },
+                  {
+                      "id":  "me55-46",
+                      "name":  "Pikachu",
+                      "localId":  "46",
+                      "rarity":  "Pikachu Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "60",
+                      "illustrator":  "svlt",
+                      "image":  "https://images.scrydex.com/pokemon/me55-46/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-46/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/046.png"
+                  },
+                  {
+                      "id":  "me55-47",
+                      "name":  "Pikachu",
+                      "localId":  "47",
+                      "rarity":  "Pikachu Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "70",
+                      "illustrator":  "Atsuko Nishida",
+                      "image":  "https://images.scrydex.com/pokemon/me55-47/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-47/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/047.png"
+                  },
+                  {
+                      "id":  "me55-48",
+                      "name":  "Pikachu",
+                      "localId":  "48",
+                      "rarity":  "Pikachu Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "70",
+                      "illustrator":  "KIYOTAKA OSHIYAMA",
+                      "image":  "https://images.scrydex.com/pokemon/me55-48/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-48/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/048.png"
+                  },
+                  {
+                      "id":  "me55-49",
+                      "name":  "Pikachu",
+                      "localId":  "49",
+                      "rarity":  "Pikachu Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "80",
+                      "illustrator":  "Nurikabe",
+                      "image":  "https://images.scrydex.com/pokemon/me55-49/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-49/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/049.png"
+                  },
+                  {
+                      "id":  "me55-50",
+                      "name":  "Pikachu",
+                      "localId":  "50",
+                      "rarity":  "Pikachu Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "80",
+                      "illustrator":  "Shimaris Yukichi",
+                      "image":  "https://images.scrydex.com/pokemon/me55-50/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-50/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/050.png"
+                  },
+                  {
+                      "id":  "me55-51",
+                      "name":  "Pikachu",
+                      "localId":  "51",
+                      "rarity":  "Pikachu Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "70",
+                      "illustrator":  "nagimiso",
+                      "image":  "https://images.scrydex.com/pokemon/me55-51/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-51/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/051.png"
+                  },
+                  {
+                      "id":  "me55-52",
+                      "name":  "Pikachu",
+                      "localId":  "52",
+                      "rarity":  "Pikachu Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "70",
+                      "illustrator":  "Kazuki Minami",
+                      "image":  "https://images.scrydex.com/pokemon/me55-52/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-52/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/052.png"
+                  },
+                  {
+                      "id":  "me55-53",
+                      "name":  "Pikachu ex",
+                      "localId":  "53",
+                      "rarity":  "Double Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "190",
+                      "illustrator":  "5ban Graphics",
+                      "image":  "https://images.scrydex.com/pokemon/me55-53/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-53/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/053.png"
+                  },
+                  {
+                      "id":  "me55-54",
+                      "name":  "Pikachu ex",
+                      "localId":  "54",
+                      "rarity":  "Double Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "190",
+                      "illustrator":  "takuyoa",
+                      "image":  "https://images.scrydex.com/pokemon/me55-54/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-54/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/054.png"
+                  },
+                  {
+                      "id":  "me55-55",
+                      "name":  "Zapdos",
+                      "localId":  "55",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "120",
+                      "illustrator":  "HYOGONOSUKE",
+                      "image":  "https://images.scrydex.com/pokemon/me55-55/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-55/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/055.png"
+                  },
+                  {
+                      "id":  "me55-56",
+                      "name":  "Zekrom",
+                      "localId":  "56",
+                      "rarity":  "Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "130",
+                      "illustrator":  "akagi",
+                      "image":  "https://images.scrydex.com/pokemon/me55-56/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-56/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/056.png"
+                  },
+                  {
+                      "id":  "me55-57",
+                      "name":  "Zeraora",
+                      "localId":  "57",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "110",
+                      "illustrator":  "Bun Toujo",
+                      "image":  "https://images.scrydex.com/pokemon/me55-57/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-57/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/057.png"
+                  },
+                  {
+                      "id":  "me55-58",
+                      "name":  "Toxel",
+                      "localId":  "58",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "70",
+                      "illustrator":  "Shimaris Yukichi",
+                      "image":  "https://images.scrydex.com/pokemon/me55-58/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-58/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/058.png"
+                  },
+                  {
+                      "id":  "me55-59",
+                      "name":  "Toxtricity",
+                      "localId":  "59",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "130",
+                      "illustrator":  "Haru Akasaka",
+                      "image":  "https://images.scrydex.com/pokemon/me55-59/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-59/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/059.png"
+                  },
+                  {
+                      "id":  "me55-60",
+                      "name":  "Toxtricity",
+                      "localId":  "60",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "140",
+                      "illustrator":  "Yuriko Akase",
+                      "image":  "https://images.scrydex.com/pokemon/me55-60/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-60/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/060.png"
+                  },
+                  {
+                      "id":  "me55-61",
+                      "name":  "Morpeko",
+                      "localId":  "61",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "70",
+                      "illustrator":  "Naoki Saito",
+                      "image":  "https://images.scrydex.com/pokemon/me55-61/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-61/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/061.png"
+                  },
+                  {
+                      "id":  "me55-62",
+                      "name":  "Miraidon",
+                      "localId":  "62",
+                      "rarity":  "Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "120",
+                      "illustrator":  "Kazumasa Yasukuni",
+                      "image":  "https://images.scrydex.com/pokemon/me55-62/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-62/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/062.png"
+                  },
+                  {
+                      "id":  "me55-63",
+                      "name":  "Mewtwo",
+                      "localId":  "63",
+                      "rarity":  "Rare",
+                      "types":  [
+                                    "Psychic"
+                                ],
+                      "hp":  "130",
+                      "illustrator":  "nagimiso",
+                      "image":  "https://images.scrydex.com/pokemon/me55-63/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-63/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/063.png"
+                  },
+                  {
+                      "id":  "me55-64",
+                      "name":  "Mewtwo ex",
+                      "localId":  "64",
+                      "rarity":  "Double Rare",
+                      "types":  [
+                                    "Psychic"
+                                ],
+                      "hp":  "230",
+                      "illustrator":  "5ban Graphics",
+                      "image":  "https://images.scrydex.com/pokemon/me55-64/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-64/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/064.png"
+                  },
+                  {
+                      "id":  "me55-65",
+                      "name":  "Mew",
+                      "localId":  "65",
+                      "rarity":  "Rare",
+                      "types":  [
+                                    "Psychic"
+                                ],
+                      "hp":  "60",
+                      "illustrator":  "danciao",
+                      "image":  "https://images.scrydex.com/pokemon/me55-65/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-65/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/065.png"
+                  },
+                  {
+                      "id":  "me55-66",
+                      "name":  "Mew ex",
+                      "localId":  "66",
+                      "rarity":  "Double Rare",
+                      "types":  [
+                                    "Psychic"
+                                ],
+                      "hp":  "160",
+                      "illustrator":  "aky CG Works",
+                      "image":  "https://images.scrydex.com/pokemon/me55-66/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-66/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/066.png"
+                  },
+                  {
+                      "id":  "me55-67",
+                      "name":  "Marill",
+                      "localId":  "67",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Psychic"
+                                ],
+                      "hp":  "70",
+                      "illustrator":  "Saya Tsuruta",
+                      "image":  "https://images.scrydex.com/pokemon/me55-67/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-67/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/067.png"
+                  },
+                  {
+                      "id":  "me55-68",
+                      "name":  "Azumarill",
+                      "localId":  "68",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Psychic"
+                                ],
+                      "hp":  "130",
+                      "illustrator":  "Kagemaru Himeno",
+                      "image":  "https://images.scrydex.com/pokemon/me55-68/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-68/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/068.png"
+                  },
+                  {
+                      "id":  "me55-69",
+                      "name":  "Espeon",
+                      "localId":  "69",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Psychic"
+                                ],
+                      "hp":  "110",
+                      "illustrator":  "aspara",
+                      "image":  "https://images.scrydex.com/pokemon/me55-69/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-69/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/069.png"
+                  },
+                  {
+                      "id":  "me55-70",
+                      "name":  "Espeon ex",
+                      "localId":  "70",
+                      "rarity":  "Double Rare",
+                      "types":  [
+                                    "Psychic"
+                                ],
+                      "hp":  "260",
+                      "illustrator":  "5ban Graphics",
+                      "image":  "https://images.scrydex.com/pokemon/me55-70/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-70/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/070.png"
+                  },
+                  {
+                      "id":  "me55-71",
+                      "name":  "Sylveon ex",
+                      "localId":  "71",
+                      "rarity":  "Double Rare",
+                      "types":  [
+                                    "Psychic"
+                                ],
+                      "hp":  "270",
+                      "illustrator":  "5ban Graphics",
+                      "image":  "https://images.scrydex.com/pokemon/me55-71/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-71/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/071.png"
+                  },
+                  {
+                      "id":  "me55-72",
+                      "name":  "Unown",
+                      "localId":  "72",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Psychic"
+                                ],
+                      "hp":  "80",
+                      "illustrator":  "mingo",
+                      "image":  "https://images.scrydex.com/pokemon/me55-72/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-72/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/072.png"
+                  },
+                  {
+                      "id":  "me55-73",
+                      "name":  "Drifloon",
+                      "localId":  "73",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Psychic"
+                                ],
+                      "hp":  "70",
+                      "illustrator":  "Shinya Komatsu",
+                      "image":  "https://images.scrydex.com/pokemon/me55-73/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-73/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/073.png"
+                  },
+                  {
+                      "id":  "me55-74",
+                      "name":  "Cresselia",
+                      "localId":  "74",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Psychic"
+                                ],
+                      "hp":  "120",
+                      "illustrator":  "KEIICHIRO ITO",
+                      "image":  "https://images.scrydex.com/pokemon/me55-74/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-74/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/074.png"
+                  },
+                  {
+                      "id":  "me55-75",
+                      "name":  "Chandelure",
+                      "localId":  "75",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Psychic"
+                                ],
+                      "hp":  "140",
+                      "illustrator":  "Yoshioka",
+                      "image":  "https://images.scrydex.com/pokemon/me55-75/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-75/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/075.png"
+                  },
+                  {
+                      "id":  "me55-76",
+                      "name":  "Xerneas",
+                      "localId":  "76",
+                      "rarity":  "Rare",
+                      "types":  [
+                                    "Psychic"
+                                ],
+                      "hp":  "120",
+                      "illustrator":  "kodama",
+                      "image":  "https://images.scrydex.com/pokemon/me55-76/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-76/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/076.png"
+                  },
+                  {
+                      "id":  "me55-77",
+                      "name":  "Comfey",
+                      "localId":  "77",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Psychic"
+                                ],
+                      "hp":  "70",
+                      "illustrator":  "sui",
+                      "image":  "https://images.scrydex.com/pokemon/me55-77/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-77/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/077.png"
+                  },
+                  {
+                      "id":  "me55-78",
+                      "name":  "Cosmog",
+                      "localId":  "78",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Psychic"
+                                ],
+                      "hp":  "60",
+                      "illustrator":  "Mina Nakai",
+                      "image":  "https://images.scrydex.com/pokemon/me55-78/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-78/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/078.png"
+                  },
+                  {
+                      "id":  "me55-79",
+                      "name":  "Cosmoem",
+                      "localId":  "79",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Psychic"
+                                ],
+                      "hp":  "100",
+                      "illustrator":  "Masako Tomii",
+                      "image":  "https://images.scrydex.com/pokemon/me55-79/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-79/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/079.png"
+                  },
+                  {
+                      "id":  "me55-80",
+                      "name":  "Lunala",
+                      "localId":  "80",
+                      "rarity":  "Rare",
+                      "types":  [
+                                    "Psychic"
+                                ],
+                      "hp":  "160",
+                      "illustrator":  "Bun Toujo",
+                      "image":  "https://images.scrydex.com/pokemon/me55-80/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-80/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/080.png"
+                  },
+                  {
+                      "id":  "me55-81",
+                      "name":  "Gimmighoul",
+                      "localId":  "81",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Psychic"
+                                ],
+                      "hp":  "60",
+                      "illustrator":  "Fujimoto Gold",
+                      "image":  "https://images.scrydex.com/pokemon/me55-81/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-81/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/081.png"
+                  },
+                  {
+                      "id":  "me55-82",
+                      "name":  "Groudon",
+                      "localId":  "82",
+                      "rarity":  "Rare",
+                      "types":  [
+                                    "Fighting"
+                                ],
+                      "hp":  "140",
+                      "illustrator":  "Takumi Wada",
+                      "image":  "https://images.scrydex.com/pokemon/me55-82/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-82/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/082.png"
+                  },
+                  {
+                      "id":  "me55-83",
+                      "name":  "Lucario",
+                      "localId":  "83",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Fighting"
+                                ],
+                      "hp":  "120",
+                      "illustrator":  "Hideki Ishikawa",
+                      "image":  "https://images.scrydex.com/pokemon/me55-83/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-83/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/083.png"
+                  },
+                  {
+                      "id":  "me55-84",
+                      "name":  "Seismitoad",
+                      "localId":  "84",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Fighting"
+                                ],
+                      "hp":  "160",
+                      "illustrator":  "Kurata So",
+                      "image":  "https://images.scrydex.com/pokemon/me55-84/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-84/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/084.png"
+                  },
+                  {
+                      "id":  "me55-85",
+                      "name":  "Lycanroc",
+                      "localId":  "85",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Fighting"
+                                ],
+                      "hp":  "130",
+                      "illustrator":  "matazo",
+                      "image":  "https://images.scrydex.com/pokemon/me55-85/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-85/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/085.png"
+                  },
+                  {
+                      "id":  "me55-86",
+                      "name":  "Koraidon",
+                      "localId":  "86",
+                      "rarity":  "Rare",
+                      "types":  [
+                                    "Fighting"
+                                ],
+                      "hp":  "130",
+                      "illustrator":  "Mitsuhiro Arita",
+                      "image":  "https://images.scrydex.com/pokemon/me55-86/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-86/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/086.png"
+                  },
+                  {
+                      "id":  "me55-87",
+                      "name":  "Nidoran ♀",
+                      "localId":  "87",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Darkness"
+                                ],
+                      "hp":  "60",
+                      "illustrator":  "Taira Akitsu",
+                      "image":  "https://images.scrydex.com/pokemon/me55-87/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-87/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/087.png"
+                  },
+                  {
+                      "id":  "me55-88",
+                      "name":  "Nidorina",
+                      "localId":  "88",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Darkness"
+                                ],
+                      "hp":  "90",
+                      "illustrator":  "Miki Tanaka",
+                      "image":  "https://images.scrydex.com/pokemon/me55-88/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-88/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/088.png"
+                  },
+                  {
+                      "id":  "me55-89",
+                      "name":  "Alolan Meowth",
+                      "localId":  "89",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Darkness"
+                                ],
+                      "hp":  "60",
+                      "illustrator":  "Natsumi Yoshida",
+                      "image":  "https://images.scrydex.com/pokemon/me55-89/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-89/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/089.png"
+                  },
+                  {
+                      "id":  "me55-90",
+                      "name":  "Gengar ex",
+                      "localId":  "90",
+                      "rarity":  "Double Rare",
+                      "types":  [
+                                    "Darkness"
+                                ],
+                      "hp":  "280",
+                      "illustrator":  "5ban Graphics",
+                      "image":  "https://images.scrydex.com/pokemon/me55-90/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-90/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/090.png"
+                  },
+                  {
+                      "id":  "me55-91",
+                      "name":  "Umbreon",
+                      "localId":  "91",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Darkness"
+                                ],
+                      "hp":  "110",
+                      "illustrator":  "Iori Suzuki",
+                      "image":  "https://images.scrydex.com/pokemon/me55-91/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-91/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/091.png"
+                  },
+                  {
+                      "id":  "me55-92",
+                      "name":  "Umbreon ex",
+                      "localId":  "92",
+                      "rarity":  "Double Rare",
+                      "types":  [
+                                    "Darkness"
+                                ],
+                      "hp":  "270",
+                      "illustrator":  "Keisuke Azuma",
+                      "image":  "https://images.scrydex.com/pokemon/me55-92/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-92/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/092.png"
+                  },
+                  {
+                      "id":  "me55-93",
+                      "name":  "Murkrow",
+                      "localId":  "93",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Darkness"
+                                ],
+                      "hp":  "80",
+                      "illustrator":  "Kouki Saitou",
+                      "image":  "https://images.scrydex.com/pokemon/me55-93/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-93/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/093.png"
+                  },
+                  {
+                      "id":  "me55-94",
+                      "name":  "Scraggy",
+                      "localId":  "94",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Darkness"
+                                ],
+                      "hp":  "80",
+                      "illustrator":  "Souichirou Gunjima",
+                      "image":  "https://images.scrydex.com/pokemon/me55-94/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-94/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/094.png"
+                  },
+                  {
+                      "id":  "me55-95",
+                      "name":  "Zorua",
+                      "localId":  "95",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Darkness"
+                                ],
+                      "hp":  "70",
+                      "illustrator":  "Atsuya Uki",
+                      "image":  "https://images.scrydex.com/pokemon/me55-95/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-95/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/095.png"
+                  },
+                  {
+                      "id":  "me55-96",
+                      "name":  "Zoroark",
+                      "localId":  "96",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Darkness"
+                                ],
+                      "hp":  "120",
+                      "illustrator":  "Shiburingaru",
+                      "image":  "https://images.scrydex.com/pokemon/me55-96/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-96/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/096.png"
+                  },
+                  {
+                      "id":  "me55-97",
+                      "name":  "Deino",
+                      "localId":  "97",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Darkness"
+                                ],
+                      "hp":  "70",
+                      "illustrator":  "Gapao",
+                      "image":  "https://images.scrydex.com/pokemon/me55-97/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-97/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/097.png"
+                  },
+                  {
+                      "id":  "me55-98",
+                      "name":  "Zweilous",
+                      "localId":  "98",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Darkness"
+                                ],
+                      "hp":  "100",
+                      "illustrator":  "IKEDA Saki",
+                      "image":  "https://images.scrydex.com/pokemon/me55-98/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-98/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/098.png"
+                  },
+                  {
+                      "id":  "me55-99",
+                      "name":  "Hydreigon",
+                      "localId":  "99",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Darkness"
+                                ],
+                      "hp":  "170",
+                      "illustrator":  "Ryuta Fuse",
+                      "image":  "https://images.scrydex.com/pokemon/me55-99/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-99/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/099.png"
+                  },
+                  {
+                      "id":  "me55-100",
+                      "name":  "Yveltal",
+                      "localId":  "100",
+                      "rarity":  "Rare",
+                      "types":  [
+                                    "Darkness"
+                                ],
+                      "hp":  "120",
+                      "illustrator":  "hncl",
+                      "image":  "https://images.scrydex.com/pokemon/me55-100/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-100/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/100.png"
+                  },
+                  {
+                      "id":  "me55-101",
+                      "name":  "Galarian Meowth",
+                      "localId":  "101",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Metal"
+                                ],
+                      "hp":  "70",
+                      "illustrator":  "Mékayu",
+                      "image":  "https://images.scrydex.com/pokemon/me55-101/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-101/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/101.png"
+                  },
+                  {
+                      "id":  "me55-102",
+                      "name":  "Jirachi ex",
+                      "localId":  "102",
+                      "rarity":  "Double Rare",
+                      "types":  [
+                                    "Metal"
+                                ],
+                      "hp":  "160",
+                      "illustrator":  "5ban Graphics",
+                      "image":  "https://images.scrydex.com/pokemon/me55-102/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-102/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/102.png"
+                  },
+                  {
+                      "id":  "me55-103",
+                      "name":  "Dialga",
+                      "localId":  "103",
+                      "rarity":  "Rare",
+                      "types":  [
+                                    "Metal"
+                                ],
+                      "hp":  "130",
+                      "illustrator":  "toriyufu",
+                      "image":  "https://images.scrydex.com/pokemon/me55-103/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-103/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/103.png"
+                  },
+                  {
+                      "id":  "me55-104",
+                      "name":  "Ferrothorn",
+                      "localId":  "104",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Metal"
+                                ],
+                      "hp":  "130",
+                      "illustrator":  "Po-Suzuki",
+                      "image":  "https://images.scrydex.com/pokemon/me55-104/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-104/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/104.png"
+                  },
+                  {
+                      "id":  "me55-105",
+                      "name":  "Solgaleo",
+                      "localId":  "105",
+                      "rarity":  "Rare",
+                      "types":  [
+                                    "Metal"
+                                ],
+                      "hp":  "170",
+                      "illustrator":  "Nurikabe",
+                      "image":  "https://images.scrydex.com/pokemon/me55-105/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-105/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/105.png"
+                  },
+                  {
+                      "id":  "me55-106",
+                      "name":  "Zacian",
+                      "localId":  "106",
+                      "rarity":  "Rare",
+                      "types":  [
+                                    "Metal"
+                                ],
+                      "hp":  "130",
+                      "illustrator":  "AKIRA EGAWA",
+                      "image":  "https://images.scrydex.com/pokemon/me55-106/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-106/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/106.png"
+                  },
+                  {
+                      "id":  "me55-107",
+                      "name":  "Zamazenta",
+                      "localId":  "107",
+                      "rarity":  "Rare",
+                      "types":  [
+                                    "Metal"
+                                ],
+                      "hp":  "130",
+                      "illustrator":  "Tsuyoshi Nagano",
+                      "image":  "https://images.scrydex.com/pokemon/me55-107/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-107/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/107.png"
+                  },
+                  {
+                      "id":  "me55-108",
+                      "name":  "Gholdengo",
+                      "localId":  "108",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Metal"
+                                ],
+                      "hp":  "130",
+                      "illustrator":  "Sanosuke Sakuma",
+                      "image":  "https://images.scrydex.com/pokemon/me55-108/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-108/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/108.png"
+                  },
+                  {
+                      "id":  "me55-109",
+                      "name":  "Salamence ex",
+                      "localId":  "109",
+                      "rarity":  "Double Rare",
+                      "types":  [
+                                    "Dragon"
+                                ],
+                      "hp":  "330",
+                      "illustrator":  "5ban Graphics",
+                      "image":  "https://images.scrydex.com/pokemon/me55-109/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-109/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/109.png"
+                  },
+                  {
+                      "id":  "me55-110",
+                      "name":  "Jangmo-o",
+                      "localId":  "110",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Dragon"
+                                ],
+                      "hp":  "70",
+                      "illustrator":  "miki kudo",
+                      "image":  "https://images.scrydex.com/pokemon/me55-110/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-110/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/110.png"
+                  },
+                  {
+                      "id":  "me55-111",
+                      "name":  "Hakamo-o",
+                      "localId":  "111",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Dragon"
+                                ],
+                      "hp":  "90",
+                      "illustrator":  "Jiro Sasumo",
+                      "image":  "https://images.scrydex.com/pokemon/me55-111/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-111/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/111.png"
+                  },
+                  {
+                      "id":  "me55-112",
+                      "name":  "Kommo-o",
+                      "localId":  "112",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Dragon"
+                                ],
+                      "hp":  "180",
+                      "illustrator":  "MARINA Chikazawa",
+                      "image":  "https://images.scrydex.com/pokemon/me55-112/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-112/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/112.png"
+                  },
+                  {
+                      "id":  "me55-113",
+                      "name":  "Meowth",
+                      "localId":  "113",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Colorless"
+                                ],
+                      "hp":  "60",
+                      "illustrator":  "MINAMINAMI Take",
+                      "image":  "https://images.scrydex.com/pokemon/me55-113/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-113/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/113.png"
+                  },
+                  {
+                      "id":  "me55-114",
+                      "name":  "Kangaskhan",
+                      "localId":  "114",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Colorless"
+                                ],
+                      "hp":  "130",
+                      "illustrator":  "Pani Kobayashi",
+                      "image":  "https://images.scrydex.com/pokemon/me55-114/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-114/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/114.png"
+                  },
+                  {
+                      "id":  "me55-115",
+                      "name":  "Ditto",
+                      "localId":  "115",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Colorless"
+                                ],
+                      "hp":  "70",
+                      "illustrator":  "Toshinao Aoki",
+                      "image":  "https://images.scrydex.com/pokemon/me55-115/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-115/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/115.png"
+                  },
+                  {
+                      "id":  "me55-116",
+                      "name":  "Eevee",
+                      "localId":  "116",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Colorless"
+                                ],
+                      "hp":  "70",
+                      "illustrator":  "Wintr Wandr",
+                      "image":  "https://images.scrydex.com/pokemon/me55-116/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-116/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/116.png"
+                  },
+                  {
+                      "id":  "me55-117",
+                      "name":  "Eevee",
+                      "localId":  "117",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Colorless"
+                                ],
+                      "hp":  "70",
+                      "illustrator":  "En Morikura",
+                      "image":  "https://images.scrydex.com/pokemon/me55-117/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-117/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/117.png"
+                  },
+                  {
+                      "id":  "me55-118",
+                      "name":  "Eevee",
+                      "localId":  "118",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Colorless"
+                                ],
+                      "hp":  "70",
+                      "illustrator":  "Hitoshi Ariga",
+                      "image":  "https://images.scrydex.com/pokemon/me55-118/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-118/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/118.png"
+                  },
+                  {
+                      "id":  "me55-119",
+                      "name":  "Snorlax",
+                      "localId":  "119",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Colorless"
+                                ],
+                      "hp":  "160",
+                      "illustrator":  "Aya Kusube",
+                      "image":  "https://images.scrydex.com/pokemon/me55-119/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-119/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/119.png"
+                  },
+                  {
+                      "id":  "me55-120",
+                      "name":  "Igglybuff",
+                      "localId":  "120",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Colorless"
+                                ],
+                      "hp":  "30",
+                      "illustrator":  "Kanami Ogata",
+                      "image":  "https://images.scrydex.com/pokemon/me55-120/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-120/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/120.png"
+                  },
+                  {
+                      "id":  "me55-121",
+                      "name":  "Lugia",
+                      "localId":  "121",
+                      "rarity":  "Rare",
+                      "types":  [
+                                    "Colorless"
+                                ],
+                      "hp":  "120",
+                      "illustrator":  "Kazuki Minami",
+                      "image":  "https://images.scrydex.com/pokemon/me55-121/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-121/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/121.png"
+                  },
+                  {
+                      "id":  "me55-122",
+                      "name":  "Hisuian Zorua",
+                      "localId":  "122",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Colorless"
+                                ],
+                      "hp":  "60",
+                      "illustrator":  "Megumi Mizutani",
+                      "image":  "https://images.scrydex.com/pokemon/me55-122/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-122/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/122.png"
+                  },
+                  {
+                      "id":  "me55-123",
+                      "name":  "Hisuian Zoroark",
+                      "localId":  "123",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Colorless"
+                                ],
+                      "hp":  "120",
+                      "illustrator":  "Kamome Shirahama",
+                      "image":  "https://images.scrydex.com/pokemon/me55-123/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-123/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/123.png"
+                  },
+                  {
+                      "id":  "me55-124",
+                      "name":  "Minior",
+                      "localId":  "124",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Colorless"
+                                ],
+                      "hp":  "90",
+                      "illustrator":  "ryoma uratsuka",
+                      "image":  "https://images.scrydex.com/pokemon/me55-124/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-124/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/124.png"
+                  },
+                  {
+                      "id":  "me55-125",
+                      "name":  "Maushold",
+                      "localId":  "125",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Colorless"
+                                ],
+                      "hp":  "80",
+                      "illustrator":  "Kariya",
+                      "image":  "https://images.scrydex.com/pokemon/me55-125/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-125/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/125.png"
+                  },
+                  {
+                      "id":  "me55-126",
+                      "name":  "Poké Pad",
+                      "localId":  "126",
+                      "rarity":  "Common",
+                      "types":  [
+
+                                ],
+                      "hp":  "",
+                      "illustrator":  "Yuka Morii",
+                      "image":  "https://images.scrydex.com/pokemon/me55-126/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-126/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/126.png"
+                  },
+                  {
+                      "id":  "me55-127",
+                      "name":  "Switch",
+                      "localId":  "127",
+                      "rarity":  "Common",
+                      "types":  [
+
+                                ],
+                      "hp":  "",
+                      "illustrator":  "Yuka Morii",
+                      "image":  "https://images.scrydex.com/pokemon/me55-127/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-127/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/127.png"
+                  },
+                  {
+                      "id":  "me55-128",
+                      "name":  "Ultra Ball",
+                      "localId":  "128",
+                      "rarity":  "Common",
+                      "types":  [
+
+                                ],
+                      "hp":  "",
+                      "illustrator":  "Yuka Morii",
+                      "image":  "https://images.scrydex.com/pokemon/me55-128/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-128/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/128.png"
+                  },
+                  {
+                      "id":  "me55-129",
+                      "name":  "Alolan Exeggutor",
+                      "localId":  "129",
+                      "rarity":  "Illustration Rare",
+                      "types":  [
+                                    "Grass"
+                                ],
+                      "hp":  "150",
+                      "illustrator":  "AYUMI ODASHIMA",
+                      "image":  "https://images.scrydex.com/pokemon/me55-129/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-129/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/129.png"
+                  },
+                  {
+                      "id":  "me55-130",
+                      "name":  "Moltres",
+                      "localId":  "130",
+                      "rarity":  "Illustration Rare",
+                      "types":  [
+                                    "Fire"
+                                ],
+                      "hp":  "120",
+                      "illustrator":  "mashu",
+                      "image":  "https://images.scrydex.com/pokemon/me55-130/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-130/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/130.png"
+                  },
+                  {
+                      "id":  "me55-131",
+                      "name":  "Lapras",
+                      "localId":  "131",
+                      "rarity":  "Illustration Rare",
+                      "types":  [
+                                    "Water"
+                                ],
+                      "hp":  "130",
+                      "illustrator":  "Amelicart",
+                      "image":  "https://images.scrydex.com/pokemon/me55-131/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-131/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/131.png"
+                  },
+                  {
+                      "id":  "me55-132",
+                      "name":  "Articuno",
+                      "localId":  "132",
+                      "rarity":  "Illustration Rare",
+                      "types":  [
+                                    "Water"
+                                ],
+                      "hp":  "120",
+                      "illustrator":  "mashu",
+                      "image":  "https://images.scrydex.com/pokemon/me55-132/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-132/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/132.png"
+                  },
+                  {
+                      "id":  "me55-133",
+                      "name":  "Zapdos",
+                      "localId":  "133",
+                      "rarity":  "Illustration Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "120",
+                      "illustrator":  "mashu",
+                      "image":  "https://images.scrydex.com/pokemon/me55-133/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-133/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/133.png"
+                  },
+                  {
+                      "id":  "me55-134",
+                      "name":  "Toxtricity",
+                      "localId":  "134",
+                      "rarity":  "Illustration Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "140",
+                      "illustrator":  "Kazumasa Yasukuni",
+                      "image":  "https://images.scrydex.com/pokemon/me55-134/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-134/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/134.png"
+                  },
+                  {
+                      "id":  "me55-135",
+                      "name":  "Morpeko",
+                      "localId":  "135",
+                      "rarity":  "Illustration Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "70",
+                      "illustrator":  "Yoshimi Miyoshi",
+                      "image":  "https://images.scrydex.com/pokemon/me55-135/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-135/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/135.png"
+                  },
+                  {
+                      "id":  "me55-136",
+                      "name":  "Drifloon",
+                      "localId":  "136",
+                      "rarity":  "Illustration Rare",
+                      "types":  [
+                                    "Psychic"
+                                ],
+                      "hp":  "70",
+                      "illustrator":  "Whisker",
+                      "image":  "https://images.scrydex.com/pokemon/me55-136/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-136/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/136.png"
+                  },
+                  {
+                      "id":  "me55-137",
+                      "name":  "Chandelure",
+                      "localId":  "137",
+                      "rarity":  "Illustration Rare",
+                      "types":  [
+                                    "Psychic"
+                                ],
+                      "hp":  "140",
+                      "illustrator":  "YASHIRO Nanaco",
+                      "image":  "https://images.scrydex.com/pokemon/me55-137/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-137/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/137.png"
+                  },
+                  {
+                      "id":  "me55-138",
+                      "name":  "Lycanroc",
+                      "localId":  "138",
+                      "rarity":  "Illustration Rare",
+                      "types":  [
+                                    "Fighting"
+                                ],
+                      "hp":  "130",
+                      "illustrator":  "Raita Kazama",
+                      "image":  "https://images.scrydex.com/pokemon/me55-138/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-138/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/138.png"
+                  },
+                  {
+                      "id":  "me55-139",
+                      "name":  "Alolan Meowth",
+                      "localId":  "139",
+                      "rarity":  "Illustration Rare",
+                      "types":  [
+                                    "Darkness"
+                                ],
+                      "hp":  "60",
+                      "illustrator":  "OKUBO",
+                      "image":  "https://images.scrydex.com/pokemon/me55-139/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-139/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/139.png"
+                  },
+                  {
+                      "id":  "me55-140",
+                      "name":  "Scraggy",
+                      "localId":  "140",
+                      "rarity":  "Illustration Rare",
+                      "types":  [
+                                    "Darkness"
+                                ],
+                      "hp":  "80",
+                      "illustrator":  "GOSSAN",
+                      "image":  "https://images.scrydex.com/pokemon/me55-140/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-140/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/140.png"
+                  },
+                  {
+                      "id":  "me55-141",
+                      "name":  "Galarian Meowth",
+                      "localId":  "141",
+                      "rarity":  "Illustration Rare",
+                      "types":  [
+                                    "Metal"
+                                ],
+                      "hp":  "70",
+                      "illustrator":  "OKUBO",
+                      "image":  "https://images.scrydex.com/pokemon/me55-141/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-141/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/141.png"
+                  },
+                  {
+                      "id":  "me55-142",
+                      "name":  "Gholdengo",
+                      "localId":  "142",
+                      "rarity":  "Illustration Rare",
+                      "types":  [
+                                    "Metal"
+                                ],
+                      "hp":  "130",
+                      "illustrator":  "toriyufu",
+                      "image":  "https://images.scrydex.com/pokemon/me55-142/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-142/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/142.png"
+                  },
+                  {
+                      "id":  "me55-143",
+                      "name":  "Kommo-o",
+                      "localId":  "143",
+                      "rarity":  "Illustration Rare",
+                      "types":  [
+                                    "Dragon"
+                                ],
+                      "hp":  "180",
+                      "illustrator":  "Gemi",
+                      "image":  "https://images.scrydex.com/pokemon/me55-143/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-143/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/143.png"
+                  },
+                  {
+                      "id":  "me55-144",
+                      "name":  "Meowth",
+                      "localId":  "144",
+                      "rarity":  "Illustration Rare",
+                      "types":  [
+                                    "Colorless"
+                                ],
+                      "hp":  "60",
+                      "illustrator":  "OKUBO",
+                      "image":  "https://images.scrydex.com/pokemon/me55-144/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-144/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/144.png"
+                  },
+                  {
+                      "id":  "me55-145",
+                      "name":  "Hisuian Zorua",
+                      "localId":  "145",
+                      "rarity":  "Illustration Rare",
+                      "types":  [
+                                    "Colorless"
+                                ],
+                      "hp":  "60",
+                      "illustrator":  "0313",
+                      "image":  "https://images.scrydex.com/pokemon/me55-145/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-145/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/145.png"
+                  },
+                  {
+                      "id":  "me55-146",
+                      "name":  "Maushold",
+                      "localId":  "146",
+                      "rarity":  "Illustration Rare",
+                      "types":  [
+                                    "Colorless"
+                                ],
+                      "hp":  "80",
+                      "illustrator":  "osare",
+                      "image":  "https://images.scrydex.com/pokemon/me55-146/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-146/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/146.png"
+                  },
+                  {
+                      "id":  "me55-147",
+                      "name":  "Fuecoco ex",
+                      "localId":  "147",
+                      "rarity":  "Special Illustration Rare",
+                      "types":  [
+                                    "Fire"
+                                ],
+                      "hp":  "210",
+                      "illustrator":  "Atsushi Furusawa",
+                      "image":  "https://images.scrydex.com/pokemon/me55-147/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-147/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/147.png"
+                  },
+                  {
+                      "id":  "me55-148",
+                      "name":  "Greninja ex",
+                      "localId":  "148",
+                      "rarity":  "Special Illustration Rare",
+                      "types":  [
+                                    "Water"
+                                ],
+                      "hp":  "300",
+                      "illustrator":  "GIDORA",
+                      "image":  "https://images.scrydex.com/pokemon/me55-148/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-148/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/148.png"
+                  },
+                  {
+                      "id":  "me55-149",
+                      "name":  "Pikachu ex",
+                      "localId":  "149",
+                      "rarity":  "Special Illustration Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "190",
+                      "illustrator":  "kantaro",
+                      "image":  "https://images.scrydex.com/pokemon/me55-149/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-149/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/149.png"
+                  },
+                  {
+                      "id":  "me55-150",
+                      "name":  "Pikachu ex",
+                      "localId":  "150",
+                      "rarity":  "Special Illustration Rare",
+                      "types":  [
+                                    "Lightning"
+                                ],
+                      "hp":  "190",
+                      "illustrator":  "kantaro",
+                      "image":  "https://images.scrydex.com/pokemon/me55-150/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-150/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/150.png"
+                  },
+                  {
+                      "id":  "me55-151",
+                      "name":  "Mewtwo ex",
+                      "localId":  "151",
+                      "rarity":  "Special Illustration Rare",
+                      "types":  [
+                                    "Psychic"
+                                ],
+                      "hp":  "230",
+                      "illustrator":  "Yano Keiji",
+                      "image":  "https://images.scrydex.com/pokemon/me55-151/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-151/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/151.png"
+                  },
+                  {
+                      "id":  "me55-152",
+                      "name":  "Mew ex",
+                      "localId":  "152",
+                      "rarity":  "Special Illustration Rare",
+                      "types":  [
+                                    "Psychic"
+                                ],
+                      "hp":  "160",
+                      "illustrator":  "Kuroimori",
+                      "image":  "https://images.scrydex.com/pokemon/me55-152/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-152/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/152.png"
+                  },
+                  {
+                      "id":  "me55-153",
+                      "name":  "Sylveon ex",
+                      "localId":  "153",
+                      "rarity":  "Special Illustration Rare",
+                      "types":  [
+                                    "Psychic"
+                                ],
+                      "hp":  "270",
+                      "illustrator":  "You Iribi",
+                      "image":  "https://images.scrydex.com/pokemon/me55-153/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-153/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/153.png"
+                  },
+                  {
+                      "id":  "me55-154",
+                      "name":  "Gengar ex",
+                      "localId":  "154",
+                      "rarity":  "Special Illustration Rare",
+                      "types":  [
+                                    "Darkness"
+                                ],
+                      "hp":  "280",
+                      "illustrator":  "CHORISO",
+                      "image":  "https://images.scrydex.com/pokemon/me55-154/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-154/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/154.png"
+                  },
+                  {
+                      "id":  "me55-155",
+                      "name":  "Jirachi ex",
+                      "localId":  "155",
+                      "rarity":  "Special Illustration Rare",
+                      "types":  [
+                                    "Metal"
+                                ],
+                      "hp":  "160",
+                      "illustrator":  "AKIRA EGAWA",
+                      "image":  "https://images.scrydex.com/pokemon/me55-155/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-155/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/155.png"
+                  },
+                  {
+                      "id":  "me55-156",
+                      "name":  "Salamence ex",
+                      "localId":  "156",
+                      "rarity":  "Special Illustration Rare",
+                      "types":  [
+                                    "Dragon"
+                                ],
+                      "hp":  "330",
+                      "illustrator":  "Ryota Murayama",
+                      "image":  "https://images.scrydex.com/pokemon/me55-156/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-156/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/156.png"
+                  },
+                  {
+                      "id":  "me55-157",
+                      "name":  "Mewtwo ex",
+                      "localId":  "157",
+                      "rarity":  "Futuristic Rare",
+                      "types":  [
+                                    "Psychic"
+                                ],
+                      "hp":  "230",
+                      "illustrator":  "YOSHIROTTEN",
+                      "image":  "https://images.scrydex.com/pokemon/me55-157/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-157/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/157.png"
+                  },
+                  {
+                      "id":  "me55-158",
+                      "name":  "Mew ex",
+                      "localId":  "158",
+                      "rarity":  "Futuristic Rare",
+                      "types":  [
+                                    "Psychic"
+                                ],
+                      "hp":  "160",
+                      "illustrator":  "YOSHIROTTEN",
+                      "image":  "https://images.scrydex.com/pokemon/me55-158/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-158/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/158.png"
+                  },
+                  {
+                      "id":  "me55-R",
+                      "name":  "Mew",
+                      "localId":  "R",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Psychic"
+                                ],
+                      "hp":  "60",
+                      "illustrator":  "YOSHIROTTEN",
+                      "image":  "https://images.scrydex.com/pokemon/me55-R/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-R/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/00R.png"
+                  },
+                  {
+                      "id":  "me55-G",
+                      "name":  "Mew",
+                      "localId":  "G",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Psychic"
+                                ],
+                      "hp":  "60",
+                      "illustrator":  "YOSHIROTTEN",
+                      "image":  "https://images.scrydex.com/pokemon/me55-G/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-G/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/00G.png"
+                  },
+                  {
+                      "id":  "me55-B",
+                      "name":  "Mew",
+                      "localId":  "B",
+                      "rarity":  "Common",
+                      "types":  [
+                                    "Psychic"
+                                ],
+                      "hp":  "60",
+                      "illustrator":  "YOSHIROTTEN",
+                      "image":  "https://images.scrydex.com/pokemon/me55-B/large",
+                      "imageHigh":  "https://images.scrydex.com/pokemon/me55-B/large",
+                      "imagemLocal":  "assets/img/cartas/30th-celebration/00B.png"
+                  }
+              ]
+}
